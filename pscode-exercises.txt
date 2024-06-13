@@ -1,0 +1,44 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+Num1=Get int
+Num2=Get int
+Num1+Num2=sum
+Print Sum
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Num1=Get int
+if Num1 % 2 then print even
+else print odd
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Num1=Get int
+Num2=Get int
+Num3=Get int
+Num4=Get int
+Num5=Get int
+Num1+Num2+num3+num4+num5=sum
+avg=sum/5
+minimum= Num<other num
+maximum= Num>other Num
+Exercise 3b was rather easy I took the sum of all of the imputted numbers and dividing the amount of numbers
+For exercise 3c I could'nt think of a way to type different numbers based on types so I stated num for a number and other num as other numbers.
+
+-- END --
+
